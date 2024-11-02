@@ -1,5 +1,3 @@
-Here’s the README updated with your username:
-
 Life Expectancy Calculator
 
 This is a simple Python application that calculates an individual’s estimated life expectancy based on general demographic data. This calculator is a basic tool meant for educational and informational purposes, giving users a general idea of average life expectancy based on various factors.
